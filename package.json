@@ -39,13 +39,13 @@
     "watch": "tsc -p . -w"
   },
   "dependencies": {
-    "chokidar": "^2.0.4",
+    "chokidar": "^3.0.0",
     "csproj2ts": "^1.1.0",
     "detect-indent": "^4.0.0",
     "detect-newline": "^2.1.0",
     "es6-promise": "~0.1.1",
     "jsmin2": "^1.2.1",
-    "lodash": "~4.17.10",
+    "lodash": "~4.17.23",
     "ncp": "0.5.1",
     "rimraf": "2.2.6",
     "semver": "^5.3.0",
